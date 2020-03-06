@@ -1,0 +1,21 @@
+Gaussian Elimination
+
+Your task is to generate a system of linear equations with N unknowns, (N is either default or provided by the user), and use Gaussian elimination to solve the system. You will need to complete the following tasks:
+
+1. Learn how to use srand() to generate a random number. (bonus: can you find a way to make the random numbers deterministic so you can test?)
+
+2. Use malloc() or calloc() to allocate space for the NxN matrix A, and space for the output Nx1 vector B, and your eventual Nx1 solution vector x.
+
+3. Write a printProblem() function that displays your randomly generated problem.
+
+4. Perform the elimination algorithm to do the first step of elimination.
+
+5. Perform back-substitution to normalize the diagonal elements to 1.
+
+6. Solve for each x in the output vector.
+
+7. Print your solution
+
+Extra ideas:
+Can you time your program to see how long it takes to run different sizes of systems? Try N=10, N=100, N=1000
+Can you print your system at different stages of execution to check its accuracy?
