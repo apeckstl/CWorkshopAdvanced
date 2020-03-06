@@ -16,6 +16,12 @@ Your task is to generate a system of linear equations with N unknowns, (N is eit
 
 7. Print your solution
 
+Resources:
+The Wikipedia article on Gaussian elimination is really helpful and contains pseudocode: https://en.wikipedia.org/wiki/Gaussian_elimination
+
+Tips:
+If you're stuck, look up a solution in Python or another language to get ideas on the algorithm, then try to implement in C.
+
 Extra ideas:
 Can you time your program to see how long it takes to run different sizes of systems? Try N=10, N=100, N=1000
 Can you print your system at different stages of execution to check its accuracy?
