@@ -1,8 +1,14 @@
-# CWorkshopAdvanced
+# C Workshop Spr 20 - Association For Computing Machinery Women
 
 Two challenges I've prepared today:
 Gaussian elimination (not as bad as it sounds) and
 Tree Traversal (easier, has skeleton code provided)
+
+File IO tutorials:
+- https://www.tutorialspoint.com/cprogramming/c_input_output.htm
+- https://www.tutorialspoint.com/ansi_c/c_working_with_files.htm
+- http://www.freetimelearning.com/c-language/c-language-fscanf-and-fprintf-functions.php
+- https://www.tutorialspoint.com/c_standard_library/c_function_fputs.htm
 
 
 Resources mentioned in the slides:
