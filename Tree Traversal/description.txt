@@ -1,3 +1,5 @@
+This challenge is from Cornell's CS 3410 class: https://www.cs.cornell.edu/courses/cs3410/2019sp/c_assignments/hw_2/
+
 Task: Write a C program that first reads two strings from the command line representing the pre-order and in-order traversal of a binary tree, and then outputs the post-order traversal of that tree. For the definition of tree traversals, please reference https://en.wikipedia.org/wiki/Tree_traversal. You can assume that the input only consists of upper and lower case letters and digits. You can also assume that the input is valid. e.g. there exists a binary tree, each of its nodes is labeled by a different character, whose pre-order and in-order are the given strings.
 
 There is a skeleton .c file and a .h file provided, as well as a Makefile to test your work.
